@@ -13,3 +13,6 @@ odd or even numbers,
 shortest distance dukstras algorithm,
 stack notations,
 stack operations,
+fibnoccis series,
+quick sort,
+
